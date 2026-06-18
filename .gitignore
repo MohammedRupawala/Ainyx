@@ -1,0 +1,10 @@
+.env
+*.exe
+*.test
+*.prof
+__debug_bin
+/main
+/server
+.idea/
+.vscode/
+.DS_Store
